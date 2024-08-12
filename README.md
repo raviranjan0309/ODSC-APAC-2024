@@ -9,10 +9,10 @@
 
 ### Session Content
 
-1. Slides [ PDF : https://github.com/raviranjan0309/ODSC-conference-India-2021/blob/main/ODSC_PPT.pdf ]
-2. Code [ https://github.com/raviranjan0309/ODSC-conference-India-2021/tree/main/Code ]
+1. Slides [ PDF : https://github.com/raviranjan0309/ODSC-APAC-2024/blob/main/ODSC%20-%202024.pdf ]
+2. Code [ https://github.com/raviranjan0309/ODSC-APAC-2024/tree/main/code ]
 
 --- 
 Credits :
 
-- Thank you Apurv for your contribution to the research topic [https://www.linkedin.com/in/apurv-gude/]
+- Thank you Apurv for your contribution to the topic [https://www.linkedin.com/in/apurv-gude/]
